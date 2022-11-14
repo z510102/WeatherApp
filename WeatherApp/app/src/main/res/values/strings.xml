@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="tv_winfo_today">今日</string>
+    <string name="tv_winfo_tomorrow">明日</string>
+    <string name="tv_choose_welcome">WeatherAppへようこそ</string>
+    <string name="tv_choose_guide">天気をご覧になりたい都市を選んでください。</string>
+    <string name="bt_decision">決定</string>
+    <string name="bt_city_change">都市変更</string>
+</resources>
